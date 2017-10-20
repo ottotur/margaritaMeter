@@ -1,0 +1,2 @@
+# margaritaMeter
+Rate margarita
